@@ -35,9 +35,9 @@ Code derived and rehashed from:
 
 [7] Unsupervised Cross-Domain Image Generation, [arXiv:1611.02200](https://arxiv.org/abs/1611.02200v1) [cs.CV]
 
-[11] [Neural Networks and Deep Learning](https://nndl.github.io/)
+[8] [Neural Networks and Deep Learning](https://nndl.github.io/)
 
-[12] [PyTorch documentation](https://pytorch.org/docs/stable/)
+[9] [PyTorch documentation](https://pytorch.org/docs/stable/)
 
-[13] 李航,《统计学习方法》第二版
+[10] 李航,《统计学习方法》第二版
 
