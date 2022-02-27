@@ -1,7 +1,40 @@
 # zi2zi-Pytorch-Implmentation
-This is a pytorch implementation of zi2zi,  author: Chaoxin FU
+This is a simple pytorch implementation of zi2zi by Chaoxin FU!
 
 ## Usage
+### Local training
+
+
+### Kaggle training
+
+
+
+## Results
+
+**字体资源来自方正字库，禁止商业使用，如有侵权立即删除！**
+
+`方正字汇-张振国楷书`
+
+![0](https://user-images.githubusercontent.com/51994221/155869016-193586b9-cf05-4bb0-a2b3-7f6ee8f5fe2f.png)
+![1](https://user-images.githubusercontent.com/51994221/155869014-6ad1b264-4794-401f-91cc-95a7b3553903.png)
+![2 FZZH-ZZGKSJW](https://user-images.githubusercontent.com/51994221/155869019-b2c42940-d9ba-4f68-a04a-803b2bc16a1a.png)
+![3](https://user-images.githubusercontent.com/51994221/155869022-a2cbb1f1-9ef3-43d4-83dd-1e4f861d7911.png)
+
+
+`书体坊何绍基楷`
+
+![0](https://user-images.githubusercontent.com/51994221/155868994-5a817958-27a7-4490-bec4-fd5fad14b507.png)
+![1](https://user-images.githubusercontent.com/51994221/155868996-dd2fca5d-48c6-4bbe-a40c-cbe0053a0cb2.png)
+![2](https://user-images.githubusercontent.com/51994221/155868997-b988fd9d-0be2-45cd-a23c-cac9deb85396.png)
+![3](https://user-images.githubusercontent.com/51994221/155868999-78dc9c82-4486-4238-b874-541cd7a8b12f.png)
+
+`方正字迹-云方楷体`
+
+![0](https://user-images.githubusercontent.com/51994221/155868839-8c5b0b4d-17e4-4335-8387-44765a510454.png)
+![1](https://user-images.githubusercontent.com/51994221/155868847-3bfab1c7-a481-47db-9e88-bc291bda4ed2.png)
+![2](https://user-images.githubusercontent.com/51994221/155868850-abebd3df-4933-4fbb-a009-b4e6bd95ef0a.png)
+![3](https://user-images.githubusercontent.com/51994221/155868852-f3287126-52e9-4c43-9630-439d2d1db099.png)
+
 
 
 
