@@ -1,5 +1,5 @@
 # zi2zi-Pytorch-Implmentation
-This is a simple pytorch implementation of zi2zi by Chaoxin FU!
+This is a simple pytorch implementation of zi2zi.
 
 ## Usage
 ### Local training
